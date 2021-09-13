@@ -8,14 +8,20 @@ Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac
 
 * Objetivo General
 
-*
+* Estudiar conceptos básicos para la realización de operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
 
 * Objetivos Específicos 
 
-* 
+* Aplicar experimentalmente las leyes de conservación de energía eléctrica atravez de fasores.
+
+* Usar cálculos algebraicos para la resolución de los ejercicios.
+
+* Conocer la importancia y la aplicación de fasores en circuitos eléctricos de corrientealterna.
+
 
 **2. MARCO TEORICO**
 
+![png (8)](https://user-images.githubusercontent.com/84789076/133170863-9189090d-fa74-4099-afc2-fdfe13493b51.png)
 
 
 **3. MATERIALES**
