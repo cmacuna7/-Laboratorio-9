@@ -34,7 +34,7 @@ https://youtu.be/smtynY4UDNA
 
 **5. CONCLUCIONES**
 
-* 
+*  En definitiva se trata de dar una pequeña introducción al uso de fasores, en problemas relacionados con la electricidad y la electrónica ya que de estos ejercicio podemos plantearlos de forma más simple para así conseguir el resultado.
 
 **6. BIBLIOGRAFÍA**
 
