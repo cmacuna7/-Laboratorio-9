@@ -25,8 +25,8 @@ Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac
 **3. PROCEDIMIENTO**
 
 
-![](FOTOS/LAB9.PNG)
 
+![](Img/1.1.png)
 
 **4. VIDEO**
 
