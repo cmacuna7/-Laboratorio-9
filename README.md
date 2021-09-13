@@ -23,6 +23,8 @@ Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac
 
 ![png (8)](https://user-images.githubusercontent.com/84789076/133170863-9189090d-fa74-4099-afc2-fdfe13493b51.png)
 
+![image](https://user-images.githubusercontent.com/84789076/133171206-bb87da77-8fc5-42dc-b35c-b33fe8fac53a.png)
+
 
 **3. MATERIALES**
 
