@@ -1,1 +1,41 @@
-# -Laboratorio-9
+# Laboratorio-9
+
+Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac 
+
+**PRÁCTICA No. 9 FASORES**
+
+**1. OBJETIVO DE LA PRÁCTICA**
+
+* Objetivo General
+
+*
+
+* Objetivos Específicos 
+
+* 
+
+**2. MARCO TEORICO**
+
+
+
+**3. MATERIALES**
+
+  1 Calculadora Científica
+
+**3. PROCEDIMIENTO**
+
+
+
+**4. VIDEO**
+
+https://youtu.be/smtynY4UDNA
+
+**5. CONCLUCIONES**
+
+* 
+
+**6. BIBLIOGRAFÍA**
+
+•	*Ingeniería Mecafenix. (20 de Febrero de 2019). ¿Qué es un capacitor? y sus tipos. Obtenido de ¿Qué es un capacitor?: https://www.ingmecafenix.com/electronica/el-capacitor/
+
+•	*MecatrónicaLATAM. (23 de Abril de 2021). Capacitor. Obtenido de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/
