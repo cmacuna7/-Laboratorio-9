@@ -40,6 +40,15 @@ Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac
 
 ![](Img/1.1.png)
 
+4.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+
+![image](https://user-images.githubusercontent.com/84789076/133198361-ceef74d6-9f34-4a7d-8530-27f9d3ee6f92.png)
+
+![image](https://user-images.githubusercontent.com/84789076/133198372-e31db04f-cd16-4ad4-ab32-c19c39c7cda8.png)
+
+![image](https://user-images.githubusercontent.com/84789076/133198385-c61e0528-fe03-4dc1-8f2d-8aaf92a39e88.png)
+
+
 **4. VIDEO**
 
 https://youtu.be/smtynY4UDNA
