@@ -32,6 +32,9 @@ Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac
 
 **3. PROCEDIMIENTO**
 
+![image](https://user-images.githubusercontent.com/84789076/133198094-7ce10b29-3f16-4e45-9791-35c6365901fc.png)
+
+![image](https://user-images.githubusercontent.com/84789076/133198113-7c7ef457-183e-4ee4-bee5-979cb2687769.png)
 
 ![](FOTOS/LAB9.PNG)
 
